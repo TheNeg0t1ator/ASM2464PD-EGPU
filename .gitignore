@@ -34,3 +34,4 @@ fp-info-cache
 *.kicad_sch.lck
 
 *.round-tracks-config
+\#auto_saved_files\#
